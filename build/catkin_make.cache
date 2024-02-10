@@ -1,0 +1,2 @@
+ros_camera
+-DCATKIN_DEVEL_PREFIX=/home/rose/ros_camera/devel -DCMAKE_INSTALL_PREFIX=/home/rose/ros_camera/install -G Unix Makefiles
